@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js content-hidden">
+	
+{% include head.html %}
+
+<body class="home page-template-default page page-id-2 no-header-text footer-widgets-0">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+	<header id="masthead" class="site-header" role="banner"><div class="wrapper">
+
+
+			<div class="site-branding">
+				<p class="site-title"> {{ site.title }}</p>
+				<img src="/assets/img/zimdatasci.png" alt="zim datasci logo"/>
+			</div>
+
+            {% include nav.html %}
+	
+		</div>
+    </header>
+	<div class="hero" id="hero"></div>
+        </div>
+    
+        <div id="content" class="site-content">
+    
+        <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">
+                <article id="post-2" class="post-2 page type-page status-publish hentry">
+                    <header class="entry-header">
+                        <h1 class="entry-title">{{ page.title }}</h1>
+                        <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+                                <button id="menu-toggle" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+                                    <div class="primary-menu-wrapper">
+                                        <ul id="primary-menu" class="primary-menu">
+                        <li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="about.html">About</a></li>
+                        <li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="aboutdsz.html"> DSZ Committee</a></li>
+                        <li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="connect.html"> Connect </a></li>
+                        <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="affinity.html">Affinity Groups</a></li>
+                                        </ul>
+                                    </div>
+                        </nav>
+                    </header>
+                    
+                    <div class="entry-content">
+    
+    {{ content }}
+    
+                    </div>
+    
+    </article></main></div>
+    
+    
+        </div>
+    
+        {% include footer.html %}
+    </div>
+    
+    </div> </div></body></html>
+    
