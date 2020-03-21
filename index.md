@@ -1,8 +1,13 @@
 ---
 layout: default
-title: Gonzo
+title: Data Science Zimbabwe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultrices libero nec sollicitudin laoreet. Nulla viverra quis nisl nec blandit. Nunc tincidunt neque est, id sollicitudin augue faucibus nec. Aenean felis augue, facilisis at ornare in, mattis a metus. Integer eu massa ullamcorper, tristique sem vel, feugiat arcu. Aliquam faucibus justo quis eros bibendum, at hendrerit dui iaculis. Nunc commodo quam in arcu ultrices, vel porttitor magna blandit. Phasellus vitae tortor a ante facilisis eleifend. Nam faucibus consectetur ligula id varius.
+Data Science Zimbabwe (DSZ) aim to be a collective that aims to:
 
-Integer sit amet molestie lacus, in accumsan sem. Morbi vel neque laoreet, convallis nisl ut, ullamcorper nibh. Nam tristique leo non condimentum luctus. Nulla non nibh a nulla vulputate aliquam. Nam ac tempor ante. Nunc quis accumsan ante. Duis varius diam felis, elementum ultrices metus mattis lacinia. Sed ullamcorper urna viverra, commodo sem sit amet, facilisis nisl. Aliquam erat volutpat. Nulla ligula sapien, aliquam vitae aliquam ac, semper at mauris. Aenean hendrerit enim in velit pulvinar, sit amet iaculis quam iaculis. Mauris sagittis, ante a cursus ullamcorper, ipsum enim luctus tellus, et volutpat nibh nisl sollicitudin nisl. Curabitur suscipit lectus ut consectetur porta. Donec ac sodales nisi. Donec imperdiet turpis a aliquet suscipit. Suspendisse eget tortor tempor, volutpat sapien et, ornare mi
++ Cater for all participants
++ Professionals
++ Companies 
++ Academic institutions
+
+> DSZ seeks to promote collaboration between persons looking to provide innovative solutions to local opportunities using Data Science, Machine and Deep Learning, Artificial Intelligence as well as other technologies and computational disciplines.
