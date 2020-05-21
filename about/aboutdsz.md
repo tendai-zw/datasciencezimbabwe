@@ -1,9 +1,10 @@
 ---
 layout: about
-title: The Data Science Zimbabwe Steering Committee
+title: Data Science Zimbabwe Steering Committee
 ---
 
 
-| Dr Panashe  | Mr Marengz  |
-| J Chibaya  | H Butau  |
-| Mupini  | Evander  |
+| Dr Panashe Chiurunge | Tendai Marengereke |
+| Jabulani Chibaya  | Humphrey Butau  |
+| Ransome Mupini | Evander Nyoni | Kundai Gwatidzo |
+| Leonard Mutambanengwe | Leo Dzingirayi |
