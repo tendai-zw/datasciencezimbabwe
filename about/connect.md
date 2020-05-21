@@ -4,7 +4,10 @@ title: Connect With DSZ
 ---
 
 
-To Contact DSZ you may:
+Contact us at:
 
-emails us on:
+email: datasciencezim@gmail.com 
+Twitter: @DataScienceZim
+
+
 
