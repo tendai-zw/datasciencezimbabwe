@@ -1,6 +1,6 @@
 ---
 layout: about
-title: The DSZ Code
+title: The Code
 ---
 
 #### The DSZ Code of Conduct 
