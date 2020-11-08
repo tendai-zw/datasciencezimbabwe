@@ -2,14 +2,13 @@
 layout: about
 title: Data Science Zimbabwe Steering Committee
 ---
+The Strategic Committee 
 
-
- Dr Panashe Chiurunge 
- Tendai Marengereke 
- Jabulani Chibaya
- Humphrey Butau
- Ransome Mupini
- Evander Nyoni
- Kundai Gwatidzo
- Leonard Mutambanengwe
- Leo Dzingirayi
++ Tendai Marengereke 
++ Jabulani Chibaya
++ Ransome Mupini
++ Evander Nyoni
++ Kundai Gwatidzo
++ Leonard Mutambanengwe
++ Leo Dzingirayi
++ Gcinethemba Sherilyn 
