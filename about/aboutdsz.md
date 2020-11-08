@@ -9,6 +9,6 @@ The Strategic Committee
 + Ransome Mupini
 + Evander Nyoni
 + Kundai Gwatidzo
-+ Leonard Mutambanengwe
++ [Leonard Mutambanengwe](https://twitter.com/LeoLENNY1)
 + Leo Dzingirayi
 + Gcinethemba Sherilyn 
