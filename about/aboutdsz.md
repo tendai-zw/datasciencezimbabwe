@@ -1,14 +1,17 @@
 ---
 layout: about
-title: Data Science Zimbabwe Steering Committee
+title: The Strategic Committee
 ---
-The Strategic Committee 
+The Strategic Committee is tasked with formulating the long term plan for the organization. It includes the conveners of the organization and current Executive.
 
-+ Tendai Marengereke 
-+ Jabulani Chibaya
-+ Ransome Mupini
-+ Evander Nyoni
-+ Kundai Gwatidzo
-+ [Leonard Mutambanengwe](https://twitter.com/LeoLENNY1)
-+ Leo Dzingirayi
+Conveners
++ Tendai Marengereke - Strategic Partnerships 
++ Jabulani Chibaya - Innovation and Business Development
++ Ransome Mupini - Skills Development and Training
++ Evander Nyoni - Projects
++ Kundai Gwatidzo - Innovation and Business Development
++ [Leonard Mutambanengwe](https://twitter.com/LeoLENNY1) - Coordination and Administration
+
+Executive
++ Leo Dzingirayi 
 + Gcinethemba Sherilyn 
