@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Welcome to Data Science Zimbabwe..
 ---
 Data Science Zimbabwe (DSZ) aims to explore issues and promote opportunities in data science; machine and deep learning, data mining and other computational technologies through:
 
